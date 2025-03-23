@@ -9,7 +9,7 @@
         "social", "rest", "api", "client", "social network", "auth", "authorization",
         "wrapper", "integration", "platform"
     ],
-    "version": "v1.1",
+    "version": "1.0.1",
     "homepage": "https://github.com/Magefine/linkedin-api-php-client",
     "require": {
         "php": ">=8.0",
