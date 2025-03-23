@@ -1,5 +1,5 @@
 {
-    "name": "zoonman/linkedin-api-php-client",
+    "name": "magefine/linkedin-api-php-client",
     "description": "LinkedIn API PHP SDK with OAuth 2.0 & CSRF support. Can be used for social sign in or sharing on LinkedIn. Examples. Documentation.",
     "type": "library",
     "keywords": [
@@ -9,7 +9,7 @@
         "social", "rest", "api", "client", "social network", "auth", "authorization",
         "wrapper", "integration", "platform"
     ],
-    "homepage": "https://github.com/zoonman/linkedin-api-php-client",
+    "homepage": "https://github.com/Magefine/linkedin-api-php-client",
     "require": {
         "php": ">=8.0",
         "ext-curl": "*",
@@ -33,13 +33,18 @@
             "name": "Daniel J. Post",
             "homepage": "http://danieljpost.info/",
             "role": "Developer"
+        },
+        {
+            "name": "Theodore Wittmann",
+            "homepage": "https://magefine.com",
+            "role": "Developer"
         }
     ],
     "support": {
         "docs": "https://www.zoonman.com/projects/linkedin-client/",
-        "source": "https://github.com/zoonman/linkedin-api-php-client",
-        "issues": "https://github.com/zoonman/linkedin-api-php-client/issues",
-        "wiki": "https://github.com/zoonman/linkedin-api-php-client/wiki"
+        "source": "https://github.com/magefine/linkedin-api-php-client",
+        "issues": "https://github.com/magefine/linkedin-api-php-client/issues",
+        "wiki": "https://github.com/magefine/linkedin-api-php-client/wiki"
     },
     "autoload": {
         "psr-4": {"LinkedIn\\": "src/"}
